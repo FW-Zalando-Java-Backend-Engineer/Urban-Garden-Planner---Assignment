@@ -158,10 +158,8 @@ Spring Boot provides everything you need to create a REST API quickly. We’ll u
 
 **application.properties:**
 ```
-
-spring.data.mongodb.uri=mongodb+srv://<username>:<password>@cluster0.mongodb.net/urban\_garden?retryWrites=true\&w=majority
-spring.data.mongodb.database=urban\_garden
-
+spring.data.mongodb.uri=mongodb+srv://<username>:<password>@cluster0.mongodb.net/ugarden?retryWrites=true\&w=majority
+spring.data.mongodb.database=ugarden
 ```
 
 > 💬 **WHY?**  

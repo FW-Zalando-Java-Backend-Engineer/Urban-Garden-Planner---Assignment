@@ -374,17 +374,17 @@ public class PlantPlanController {
 
 ## ✅ Final Submission Checklist
 
-✔️ MongoDB Atlas cluster created
-✔️ Connection string in `application.properties`
-✔️ Spring Boot project with:
+* ✔️ MongoDB Atlas cluster created
+* ✔️ Connection string in `application.properties`
+* ✔️ Spring Boot project with:
 
-* Model
-* Repository
-* Service
-* Controller
+      * Model
+      * Repository
+      * Service
+      * Controller
 
-✔️ REST endpoints working
-✔️ README in your repo explaining your setup
+* ✔️ REST endpoints working
+* ✔️ README in your repo explaining your setup
 
 ---
 
